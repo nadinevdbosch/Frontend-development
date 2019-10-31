@@ -272,7 +272,6 @@ footer section{
 }
 
 #portfolio main section{
-    width: 100vw;
     display: flex;
     justify-content: space-around;
     
@@ -358,6 +357,14 @@ form:valid{
     border-color: yellowgreen;
     
 }
+
+#sorteer{
+    position: absolute;
+    margin-left: 90vw;
+    margin-top: -2em;
+    
+}
+
 
 
 
